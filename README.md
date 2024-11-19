@@ -1,16 +1,24 @@
-# julius_encryptus
+<div>
 
-A new Flutter project.
+# JuliusEncryptus
 
-## Getting Started
+<div align="center">
+    <img src="https://drive.google.com/uc?id=1HLYFL5YVXpv1odnzNLIfNsYZ0qp3aOta" width='100px' height= '100px' /> 
+</div>
 
-This project is a starting point for a Flutter application.
+## PS-1: Decrypting the Caesar Cipher
 
-A few resources to get you started if this is your first Flutter project:
+### Problem Statement
+> Can you decrypt intercepted messages encoded with the Caesar Cipher to uncover clues about potential attackers‘ strategies and timelines?
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Our Idea
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Creation of An analysis tool which will provide *potential* solutions to the Caesar cipher provided, which can be readily used on any system with a working internet connection, Hence
+
+<h1 display='block' align='center' align='center'> JULIUS ENCRYPTUS </h1>
+
+<p align = 'center'> 
+A project to create an API which returns all possible combinations to a caesar cipher and sort them into recommended ones and non recommended ones to smoothline the vetting process. <b>This is a mobile Application which displays the prowess of the api</b>
+</p>
+
+</div>
